@@ -1,0 +1,21 @@
+.container {
+    width: 1170px;
+    margin: 0 auto;
+}
+.cell {
+    height: 50px;
+}
+.address {
+    width: 150px;
+}
+.features {
+    width: 860px;
+}
+.design {
+    width: 80px;
+    text-align: center;
+}
+.github {
+    width: 80px;
+    text-align: center;
+}
